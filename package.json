@@ -1,0 +1,18 @@
+{
+  "name": "serverless-text-to-speech",
+  "version": "1.0.0",
+  "description": "serverless text to speech app",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc --version && tsc"
+  },
+  "keywords": [],
+  "author": "sahiljamwal",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1679.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.4.1"
+  }
+}
